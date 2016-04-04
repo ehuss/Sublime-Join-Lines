@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+alt+j"], "command": "join_lines_prompt"},
+]
